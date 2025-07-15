@@ -15,6 +15,18 @@ This project explores key drivers of employee attrition using the IBM HR Analyti
 ## Tools
 - Excel (for EDA, data cleaning, and modeling)
 - Power BI (for dashboarding and visual insights)
+- 
+## Folder Structure
+
+📁 IBM-HR-Analytics-Project
+│
+├── 📄 README.md
+├── 📁 reports
+│   └── IBM HR Analytics Project Report.docx
+├── 📁 dashboards
+│   └── Employee Attrition & Performance Dashboard – IBM HR Analytics.pbix
+├── 📁 data
+│   └── Hr excel Assignment.xlsx
 
 ## Author
 Mumtaj
